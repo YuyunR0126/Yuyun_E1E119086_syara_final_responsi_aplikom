@@ -139,6 +139,17 @@ li{
     border-radius: 10px;
     box-shadow: 2px 2px 2px black;
 }
+.Document-sepuluh{
+    width: 90%;
+    margin: 10px 30px;
+    background-color:  rgba(10, 201, 201, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
 .Genap{
     text-align: right;
 }
